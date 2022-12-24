@@ -1,0 +1,45 @@
+I would like a page, to grab the json data for that person.
+
+Page has an ID and refers to a person.
+
+When you click on a person, facts are loaded in as well as the person's name and image.
+
+Relationships are also loaded in.
+
+Marriage, Parents, Children.
+
+Blue if they have their own page, black if not.
+
+And I will have a fake API of sorts that lets you go to a page.
+
+A page is about a person and it contains facts as well as the person's name.
+
+A page contains, facts, and sources.
+
+Names and relationships and life events are all types of facts.
+
+A person can have a relationship with a person based on the existence of a shared child.
+A child may belong to an unknown mother.
+
+All facts must have sources.
+
+So there is the structure of the data, and there is the data itself.
+Also the work must be published in Ancestry and also in Family Search so that other people can collaborate with me on things.
+
+Some facts have photos, 
+Some people have photos,
+
+
+Now, the most important things are
+
+
+/person
+/facts
+/sources
+
+The same source may be cited for many facts.
+A single fact may cite multiple sources.
+Some facts are relationships.
+Some facts are life events.
+
+Current objective: Find Erna Gruenhagen's parents
