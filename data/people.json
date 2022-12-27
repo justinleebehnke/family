@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Erna A. K. Behnke (Gruenhagen)",
+    "profilePicture": "images/ErnaAnnaKlaraBehnke.jpeg",
+    "assertions": [
+      {
+        "sourceIds": [1, 2, 3, 5, 6],
+        "title": "Birth",
+        "date": "1913-07-16",
+        "location": "Carver, Minnesota, United States"
+      },
+      {
+        "sourceIds": [2],
+        "title": "Residence",
+        "date": "1920-01-29",
+        "location": "Benton Township, Carver, Minnesota, United States"
+      },
+      {
+        "sourceIds": [3],
+        "title": "Confirmation",
+        "date": "1927-04-10",
+        "location": "Benton Township, Carver, Minnesota, United States"
+      },
+      {
+        "sourceIds": [4],
+        "title": "Marriage",
+        "date": "1938 May",
+        "location": "Carver, Minnesota, United States",
+        "spouseId": 2
+      },
+      {
+        "sourceIds": [5],
+        "title": "Residence",
+        "date": "1940-04-18",
+        "location": "St. Lawrence Township, Scott County, Minnesota"
+      },
+      {
+        "sourceIds": [6],
+        "title": "Memorial",
+        "date": "2006",
+        "location": "Schlegel Cemetery, Blakeley Township, Scott County, Minnesota, USA"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Fred H. Behnke",
+    "assertions": [
+      {
+        "sourceIds": [5, 6],
+        "title": "Birth",
+        "date": "1908",
+        "location": "Michigan"
+      },
+      {
+        "sourceIds": [4],
+        "title": "Marriage",
+        "date": "1938 May",
+        "location": "Carver, Minnesota, United States",
+        "spouseId": 1
+      },
+      {
+        "sourceIds": [5],
+        "title": "Residence",
+        "date": "1940-04-18",
+        "location": "St. Lawrence Township, Scott County, Minnesota"
+      },
+      {
+        "sourceIds": [6],
+        "title": "Memorial",
+        "date": "1981",
+        "location": "Schlegel Cemetery, Blakeley Township, Scott County, Minnesota, USA"
+      }
+    ]
+  }
+]

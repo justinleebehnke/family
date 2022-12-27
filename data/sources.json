@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "downloadable": "images/GruenhagenErnaBirthIndexRecordImage.jpg",
+    "citation": "\"Minnesota, County Birth Records, 1863-1983,\" images, FamilySearch (https://familysearch.org/ark:/61903/3:1:33S7-95NT-Q7T?cc=1920099&wc=3XSK-3TP%3A212869901%2C212901901 : 21 May 2014), Carver > Birth Index, 1892-1938 > image 71 of 281; county courthouses, Minnesota.",
+    "title": "Birth Certificate Index",
+    "summary": "This citation is an index specifying the location of the official record, it is not the official record.",
+    "notes": "Erna's name is found on the right hand side in the middle of the page."
+  },
+  {
+    "id": 2,
+    "downloadable": "images/1920CensusErnstGruenhagen.jpg",
+    "citation": "\"United States Census, 1920,\" database with images, FamilySearch (https://familysearch.org/ark:/61903/3:1:33SQ-GRF4-3ZT?cc=1488411&wc=QZJT-NSX%3A1036473401%2C1037155701%2C1036473202%2C1589332331 : 11 September 2019), Minnesota > Carver > Benton > ED 1 > image 24 of 32; citing NARA microfilm publication T625 (Washington, D.C.: National Archives and Records Administration, n.d.).",
+    "title": "1920 Census",
+    "summary": "Shows the family of Ernst and Dorothea Gruenhagen starting on line 80",
+    "notes": "Note that the family member names are spelled differently, Ernst -> Ernest, Dorothea -> Dorothy, Erna -> Ella, but I still believe these records refer to the same family based on the location of the family and the ages and names of the children. I am going to assume that either more American names were chosen deliberately or that the enumerator did not hear/record correctly. It's interesting to note that additional details have been recorded on the record, their home was reported as being owned as mortgage free. Ernst and Dorothea were able to read and write and could speak English but their mother tongue was German. It says they were both born in the same place in Germany, it looks like it may be \"Hanover\" which is where many of the neighbors are from. Ernst was a farmer."
+  },
+  {
+    "id": 3,
+    "downloadable": "images/ErnaGruenhagenConfirmation.pdf",
+    "citation": "On Dec 24th, 2022 this document was in Justin Behnke's possession",
+    "title": "Confirmation Record",
+    "summary": "A confirmation record for Erna Gruenhagen, written in German, from a Lutheran Church in Benton Township.",
+    "notes": "Attempted Translation \"Erna A. K. Gruenhagen born July 16, 1913, Carver Co. Minn. confirmed April 10, 1927 in the Ev. Luth. Zions Local Community...[unable to read]...Benton, Minnesota...[unable to read]\". The top of the seal reads \"EV. LUTH. ZIONS GEMEINDE\". The bottom of the seal reads \"BENTON, CARVER CO. MINN.\""
+  },
+  {
+    "id": 4,
+    "downloadable": "images/ErnaAndFredMarriageIndexRecord.jpg",
+    "citation": "\"Minnesota, County Marriages, 1860-1949,\" database with images, FamilySearch (https://familysearch.org/ark:/61903/3:1:939Z-YGRK-B?cc=1803974&wc=MRJV-7M9%3A146207001 : 13 June 2016), 004539692 > image 106 of 841; county courthouses, Minnesota.",
+    "title": "Marriage Index Record",
+    "summary": "This citation is an index specifying the location of the official record, it is not the official record. Their names are found on the right hand side about 1/3 from the top of the page.",
+    "notes": "The index states that certificate was taken out on the 7th and then returned on the 8th. This record does not specify the date of the marriage."
+  },
+  {
+    "id": 5,
+    "downloadable": "images/1940StLawrenceTownshipCensusRecord.jpg",
+    "citation": "\"United States Census, 1940,\" database with images, FamilySearch (https://familysearch.org/ark:/61903/3:1:3QS7-L9MT-CH4?cc=2000219&wc=QZXP-Y41%3A790104601%2C796596701%2C795358701%2C801157302 : accessed 18 December 2022), Minnesota > Scott > St. Lawrence Township > 70-18 St. Lawrence Township (Township 114 Range 24 (part)) outside Belle Plaine Borough > image 2 of 9; citing Sixteenth Census of the United States, 1940, NARA digital publication T627. Records of the Bureau of the Census, 1790 - 2007, RG 29. Washington, D.C.: National Archives and Records Administration, 2012.",
+    "title": "1940 Census",
+    "summary": "Shows the family of Fred Behnke near the bottom of the page",
+    "notes": "Indicates that Fred and Erna live together with 1 year old daughter Dolores. Erna has a 7th grade education and Fred has an 8th grade education. Fred was born in Michigan."
+  },
+  {
+    "id": 6,
+    "downloadable": "images/ErnaAndFredGraveMemorial.jpg",
+    "citation": "Find a Grave, database and images (https://www.findagrave.com/memorial/74222259/erna-a-behnke: accessed 18 December 2022), memorial page for Erna A Behnke (1913–2006), Find a Grave Memorial ID 74222259, citing Schlegel Cemetery, Blakeley Township, Scott County, Minnesota, USA; Maintained by Gregory Aanenson (contributor 47230741).",
+    "title": "Memorial of Fred H and Erna A Behnke",
+    "summary": "Shows the memorial with flowers for Erna and Fred",
+    "notes": "The dates on the memorial for Fred are 1908 to 1981. The dates on the memorial for Erna are 1913 to 2006."
+  }
+]
